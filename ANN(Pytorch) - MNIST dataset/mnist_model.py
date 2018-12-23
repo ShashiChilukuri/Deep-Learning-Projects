@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+
 class Network(nn.Module):
     def __init__(self,input_size = (28 * 28), output_size = 10, hidden_layers = [512,512]):
         super(Network, self).__init__()
