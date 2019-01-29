@@ -33,4 +33,4 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
   - Project - DCGAN on SVHN dataset
   - Project - CycleGAN for Image to Image transformation
   - Project - Use a deep convolutional GAN to generate completely new images of human faces
-      ![](1mg/generating_images.JPG)
+      ![](1mg/generating_faces.JPG)
