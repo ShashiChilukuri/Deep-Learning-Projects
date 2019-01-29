@@ -5,3 +5,4 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
 - Recurrent neural network (RNN)
 - Generative Adversarial Networks (GAN)
 - Deep Convolutional Generative Adversarial Networks (DCGAN)
+- Model Deployment in the cloud (AWS)
