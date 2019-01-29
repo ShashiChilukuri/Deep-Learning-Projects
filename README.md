@@ -18,6 +18,7 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
   - Project: Upsamling Convolutional Autoencoder on MNIST
   - Project: Denoising Autoencoder on MNIST
   - Project: Style transfer using VGG19
+  
     <img src="/1mg/style_transfer.JPG" width="350" alt="style_transfer"/>
   - Project: Classify dog breeds in pictures
   ## Recurrent neural network (RNN):
@@ -33,4 +34,5 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
   - Project - DCGAN on SVHN dataset
   - Project - CycleGAN for Image to Image transformation
   - Project - Use a deep convolutional GAN to generate completely new images of human faces
+  
     <img src="/1mg/generating_images.JPG" alt="generating_images"/>
