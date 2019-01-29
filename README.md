@@ -18,6 +18,7 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
   - Project: Upsamling Convolutional Autoencoder on MNIST
   - Project: Denoising Autoencoder on MNIST
   - Project: Style transfer using VGG19
+      <img src="/1mg/style_transfer.JPG" width="350" alt="style_transfer"/>
   - Project: Classify dog breeds in pictures
   ## Recurrent neural network (RNN):
   Creating RNN, LSTM(Long Short Term Memory),Word embedding's using Skip-Gram and Negative Sampling, Sentiment analysis
