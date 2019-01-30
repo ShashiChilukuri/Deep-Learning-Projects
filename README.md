@@ -27,8 +27,8 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
   - Project: Word embedding using Skip-gram and Negative sampling
   - Project: Sentiment Analysis with RNN
   - Project: Create/deploy Sentiment Analysis on AWS, Create web app and access model from it
-    ![](1mg/Negative review.JPG)
-    ![](1mg/Positive review.JPG)
+    ![](1mg/Negative_review.JPG)
+    ![](1mg/Positive_review.JPG)
   - Project: Generate new TV scripts from provided existing scripts
   ## Generative Adversarial Networks (GAN):
   Implementing GAN, Deep Convolutional GAN(DCGAN), CycleGAN, Image to Image transformations
