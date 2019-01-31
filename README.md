@@ -9,7 +9,7 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
   - Project: Classifying the movie review text using Sentiment Analysis
   - Project: Multi-layer Perceptron on MNIST dataset
   - Project: ANN on Fashion MNIST dataset
-  - Project: ANN on IRIS dataset.
+  - Project: ANN on IRIS dataset
   ## Convolutional neural networks (CNN):
   Create CNN, Transfer learning from existing models, Autoencoder (for image compression and de-noising), Style transfer
   - Project: CNN on CIFAR10 dataset
