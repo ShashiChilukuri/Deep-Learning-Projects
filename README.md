@@ -23,7 +23,7 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
   - Project: Classify dog breeds in pictures
   ## Recurrent neural network (RNN):
   Creating RNN, LSTM(Long Short Term Memory),Word embedding's using Skip-Gram and Negative Sampling, Sentiment analysis
-  - Project: Creating simple RNN
+  - Project: Creating simple RNN.
   - Project: Character-Level LSTM
   - Project: Word embedding using Skip-gram and Negative sampling
   - Project: Sentiment Analysis with RNN
