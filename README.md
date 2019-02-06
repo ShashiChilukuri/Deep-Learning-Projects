@@ -3,7 +3,7 @@
 Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I worked
 ![](1mg/nn.png)
   ## Artificial Neural network (ANN):
-  ![](1mg/symple_nn.png)
+  ![](1mg/Simple_nn.png)
   Create ANN using algorithms like gradient descent, back-propagation to train/validate/test the model
   - Project: To predict Student Admission based on UCLA admission data
   - Project: To predict Bike-sharing patterns on a given day
