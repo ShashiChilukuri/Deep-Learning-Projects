@@ -13,7 +13,7 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
   - Project: ANN on IRIS dataset
   ## Convolutional neural networks (CNN):
   Create CNN, Transfer learning from existing models, Autoencoder (for image compression and de-noising), Style transfer
-  - Project: CNN on CIFAR10 dataset
+  - Project: CNN on CIFAR10 dataset.
   - Project: Transfer learning using VGG16 to classify images
     ![](1mg/transfer_learning.JPG)
   - Project: Transpose Convolutional Autoencoder on MNIST
