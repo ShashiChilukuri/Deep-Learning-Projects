@@ -33,7 +33,7 @@ Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I wo
     ![](1mg/Positive_review.JPG)
   - Project: Generate new TV scripts from provided existing scripts
   ## Generative Adversarial Networks (GAN):
-  Implementing GAN, Deep Convolutional GAN(DCGAN), CycleGAN, Image to Image transformations.
+  Implementing GAN, Deep Convolutional GAN(DCGAN), CycleGAN, Image to Image transformations
   - Project - GAN on MNIST dataset
   - Project - DCGAN on SVHN dataset
   - Project - CycleGAN for Image to Image transformation
