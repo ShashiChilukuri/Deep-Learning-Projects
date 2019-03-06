@@ -1,6 +1,6 @@
 # Deep-Learning-Projects
 
-Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I worked.
+Repository for Deep Learning projects using Pytorch, Keras, Tensorflow that I worked..
 ![](1mg/nn.png)
   ## Artificial Neural network (ANN):
   ![](1mg/Simple_nn.png)
